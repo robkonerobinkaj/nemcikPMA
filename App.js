@@ -22,7 +22,7 @@ export default function App() {
           <Pressable style = {styles.taskLines}>
             <Text>{i}</Text>
           </Pressable>
-        ))}
+         ))}
       </View>
       <StatusBar style="auto" />
     </View>
